@@ -1,0 +1,5 @@
+A program is required to calculate the annual cost of running a motor car. Costs include monthly installments, the annual fuel cost and insurance. The annual insurance rate is 3% of the car's value.
+- Required input values are:
+- value of the motor car
+- Monthly installment amount
+Annual fuel cost#The output is the annual cost of running the car.
